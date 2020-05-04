@@ -1,14 +1,14 @@
 # WACV 2021 Author Kit (Latex)
 
 ## Overleaf Template
-We highly recommend the use of the [Overleaf Template](http://foo).  Overleaf has all of the needed packages/fonts by default and moreover, allows for synchronous collaboration/editing of multiple authors.  It is very user-friendly, but also fully functional.  The overleaf version is identical to the version found in this github repository.
+We highly recommend the use of the [Overleaf Template](https://www.overleaf.com/read/bxcrjrgtqzdp).  Overleaf has all of the needed packages/fonts by default and moreover, allows for synchronous collaboration/editing of multiple authors.  It is very user-friendly, but also fully functional.  The overleaf version is identical to the version found in this github repository.
 
 ### Other Latex Build Tools
 If you prefer to use an alternative editor/build engine to overlaf, you can either:
 * clone this git repository:
 
 ```$ git clone https://github.com/ryanfarrell/wacv2021-author-kit.git```
-* or, download this author kit as a [zip file](https://github.com/ryanfarrell/wacv2021-author-kit/archive/master.zip).
+* or, download this author kit as a [zip file](https://github.com/wacv2021/WACV-2021-Author-Kit/archive/master.zip).
 
 There are a variety of latex editing/build tools you can find on the web.
 
