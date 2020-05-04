@@ -7,7 +7,7 @@ We highly recommend the use of the [Overleaf Template](https://www.overleaf.com/
 If you prefer to use an alternative editor/build engine to overlaf, you can either:
 * clone this git repository:
 
-```$ git clone https://github.com/ryanfarrell/wacv2021-author-kit.git```
+```$ git clone https://github.com/wacv2021/WACV-2021-Author-Kit.git```
 * or, download this author kit as a [zip file](https://github.com/wacv2021/WACV-2021-Author-Kit/archive/master.zip).
 
 There are a variety of latex editing/build tools you can find on the web.
