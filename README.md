@@ -4,7 +4,7 @@
 We highly recommend the use of the [Overleaf Template](https://www.overleaf.com/read/bxcrjrgtqzdp).  Overleaf has all of the needed packages/fonts by default and moreover, allows for synchronous collaboration/editing of multiple authors.  It is very user-friendly, but also fully functional.  The overleaf version is identical to the version found in this github repository.
 
 ### Other Latex Build Tools
-If you prefer to use an alternative editor/build engine to overlaf, you can either:
+If you prefer to use an alternative editor/build engine to overleaf, you can either:
 * clone this git repository:
 
 ```$ git clone https://github.com/wacv2021/WACV-2021-Author-Kit.git```
